@@ -1,3 +1,3 @@
 # Deliberate Practise
 
-Initial setup for Deliberate Practise sesssions
+Initial setup for Deliberate Practise sessions
