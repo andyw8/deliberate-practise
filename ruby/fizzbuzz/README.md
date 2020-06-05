@@ -1,7 +1,11 @@
-Start this project by running:
+To set up this project, run:
 
 ```
-bundle
+dev up
+```
 
-ruby fizzbuzz_test.rb
+To run the tests:
+
+```
+dev test
 ```
